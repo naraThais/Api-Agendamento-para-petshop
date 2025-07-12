@@ -39,6 +39,7 @@ API REST simples para gerenciar agendamentos de um petshop, desenvolvida em Node
 1. Clone o repositório:
 
 git clone https://github.com/naraThais/projeto-nodejs-rest-api.git
+<br>
 cd projeto-nodejs-rest-api
 
 2. Instale as dependências:
